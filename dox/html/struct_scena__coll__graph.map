@@ -1,0 +1,5 @@
+<map id="Scena" name="Scena">
+<area shape="rect" id="node1" title="Struktura Sceny przechowująca oryginaly prostopadłościan oraz macierze obrotu wokół osi." alt="" coords="127,124,188,151"/>
+<area shape="rect" id="node2" href="$class_prostopadloscian.html" title="Klasa Prostopadloscian. Deklaracja klasy prostopadłościan. Zawiera ona elementy i metody potrzebne do..." alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node3" href="$class_macierz.html" title=" " alt="" coords="163,5,325,32"/>
+</map>
